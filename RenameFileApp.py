@@ -2,7 +2,7 @@
 """
 Created on Wed May 15 13:12:10 2024
 
-@author: 0154640
+@author: Sihle Ntuli
 """
 import os
 import tkinter as tk
